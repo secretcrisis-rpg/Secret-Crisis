@@ -12,8 +12,8 @@
   font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
-src: url("./fonts/icofont.woff2") format("woff2"),
-url("./fonts/icofont.woff") format("woff");
+src: url("https://dl.dropbox.com/scl/fi/ba4ptahk9r7ols3i7zg6l/icofont.woff2") format("woff2"),
+url("https://dl.dropbox.com/scl/fi/ehuje4sh33ddqgjbcg5jx/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]
