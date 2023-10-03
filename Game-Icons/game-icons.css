@@ -1,8 +1,9 @@
 @font-face {
 	font-family: "game-icons";
 	src: url("https://secretcrisis-rpg.github.io/secret-crisis/Game-Icons/game-icons.eot#iefix") format("embedded-opentype"),
-url("https://secretcrisis-rpg.github.io/secret-crisis/Game-Icons/game-icons.woff") format("woff"),
-url("https://secretcrisis-rpg.github.io/secret-crisis/Game-Icons/game-icons.ttf") format("truetype");
+	src: url("https://secretcrisis-rpg.github.io/secret-crisis/Game-Icons/game-icons.eot") format("embedded-opentype"),
+		url("https://secretcrisis-rpg.github.io/secret-crisis/Game-Icons/game-icons.woff") format("woff"),
+		url("https://secretcrisis-rpg.github.io/secret-crisis/Game-Icons/game-icons.ttf") format("truetype");
 }
 
 .game-icon {
