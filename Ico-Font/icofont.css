@@ -12,8 +12,8 @@
   font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
-src: url("https://secretcrisis-rpg.github.io/secret-crisis/icofont.woff2") format("woff2"),
-url("https://secretcrisis-rpg.github.io/secret-crisis/icofont.woff") format("woff");
+src: url("https://secretcrisis-rpg.github.io/secret-crisis/Ico-Font/icofont.woff2") format("woff2"),
+url("https://secretcrisis-rpg.github.io/secret-crisis/Ico-Font/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]
